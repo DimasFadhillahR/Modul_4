@@ -27,7 +27,7 @@ Tugas 2 membuat layout dengan master template blade untuk project anda
 
 2 pada folder layout file app.blade.php kita mengambil css dan js di bootstrap ini linknya Bootstrap
 
-![image](https://user-images.githubusercontent.com/109930422/183356891-064e941a-687b-48c3-ade5-6fedfaa02f82.png)
+![image](https://user-images.githubusercontent.com/109930422/183358845-2aa7fe99-ab84-4b3e-9966-744836414a78.png)
 
 gambar diatas adalah bagian bootstrap yang kita pakai sebagai css dengan menambahkan syntax sebagai berikut
 
